@@ -101,14 +101,33 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnaim346&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="mdnaim346" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaim346&layout=compact&theme=radical" alt="mdnaim346" height="180" />
-  
+  <!-- 🌟 GitHub Stats (Dynamic) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mdnaim346&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+    alt="mdnaim346's GitHub Stats" 
+    height="180"
+  />
+
+  <!-- 💬 Most Used Languages (Dynamic) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaim346&layout=compact&theme=radical&langs_count=8" 
+    alt="Top Languages by mdnaim346" 
+    height="180"
+  />
+
   <br/>
   <h3>🔥 GitHub Streak</h3>
+
+  <!-- 🔥 Dynamic Streak Stats -->
   <div style="background-color: #20232a; padding: 15px; border-radius: 10px; border: 2px solid #ff6b6b; display: inline-block;">
-    <img src="https://streak-stats.demolab.com?user=mdnaim346&theme=radical&hide_border=true" alt="mdnaim346" height="180" />
+    <img 
+      src="https://streak-stats.demolab.com?user=mdnaim346&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+      alt="GitHub Streak for mdnaim346" 
+      height="180"
+    />
   </div>
+</div>
+
   
   <br/>
   <h3>📈 Activity Graph</h3>

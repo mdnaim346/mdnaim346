@@ -136,11 +136,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnaim346&theme=react-dark&bg_color=20232a&hide_border=true" alt="mdnaim346" />
   
   <br/>
-  <h3>🎯 Contribution Calendar</h3>
-<div align="center" style="background-color: #20232a; padding: 15px; border-radius: 10px; border: 2px solid #00ff9d;">
-  
-  <!-- Dynamic Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnaim346&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="mdnaim346's Contribution Graph" width="100%" />
+
   
   <!-- Dynamic Contribution Stats -->
   <br/>
@@ -217,7 +213,7 @@
 ---
 
 <div align="center">
-  <img src="[https://avatars.githubusercontent.com/u/118394676?s=100&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4](https://drive.google.com/file/d/1wOCeIU-A8LEZbIcL6ugrIQ-B6pHYvg3j/view?usp=sharing)" alt="Naim Reza" width="80" height="80" style="border-radius: 50%;"/>
+  <img src="22cdccdd660a6d77.jpg" alt="Naim Reza" width="80" height="80" style="border-radius: 50%;"/>
   <h3>Thanks for visiting! 😊</h3>
   <p><em>Keep coding, keep learning! 🚀</em></p>
   <p>

@@ -133,7 +133,7 @@
 </div>
 </div>
 
-## 📈 GitHub Metrics
+
 
 <!-- <div align="center">
   <div style="background-color: #20232a; padding: 15px; border-radius: 10px; border: 2px solid #764ba2; margin: 20px 0;">
@@ -141,7 +141,7 @@
   </div>
 </div> -->
 
-## 🐍 Contribution Snake
+
 
 <!-- <div align="center">
   <div style="background-color: #20232a; padding: 15px; border-radius: 10px; border: 2px solid #ff6b6b; margin: 20px 0;">

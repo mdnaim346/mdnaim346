@@ -17,9 +17,11 @@
   
   <!-- Badges -->
   <p>
-    ![GitHub followers](https://img.shields.io/github/followers/mdnaim346?label=Followers&logo=github&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/mdnaim346?label=Stars&logo=github&style=for-the-badge)
-![GitHub Repos](https://img.shields.io/badge/Public%20Repos-XX-blue?style=for-the-badge&logo=github)
+  <img src="https://img.shields.io/github/followers/mdnaim346?label=Followers&logo=github&style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/mdnaim346?label=Stars&logo=github&style=for-the-badge" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=mdnaim346&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/commit-activity/y/mdnaim346?style=for-the-badge&color=yellow" alt="Yearly Commits"/>
+  
 
   </p>
 

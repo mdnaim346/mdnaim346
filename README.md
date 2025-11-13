@@ -4,7 +4,8 @@
   
 
   <!-- Profile Picture -->
-  <img src="https://github.com/account" alt="Naim Reza" width="200" height="200" style="border-radius: 50%; border: 5px solid #00ff9d;"/>
+  <img src="![22cdccdd660a6d77](https://github.com/user-attachments/assets/8bf5770b-d2e3-47f8-8b5b-6df6a077bb20)
+" width="200" height="200" style="border-radius: 50%; border: 5px solid #00ff9d;"/>
   
   <!-- Title -->
   <h1>Hi 👋, I'm Naim Reza</h1>

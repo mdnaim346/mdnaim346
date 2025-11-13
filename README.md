@@ -17,10 +17,10 @@
   
   <!-- Badges -->
   <p>
-    <img src="[https://img.shields.io/badge/MERN-Stack-00ff9d?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack](https://img.shields.io/badge/dynamic/xml
-)" />
-    <img src="https://img.shields.io/badge/Full-Stack-764ba2?style=for-the-badge&logo=fullstack&logoColor=white" alt="Full Stack" />
-    <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+    ![GitHub followers](https://img.shields.io/github/followers/mdnaim346?label=Followers&logo=github&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/mdnaim346?label=Stars&logo=github&style=for-the-badge)
+![GitHub Repos](https://img.shields.io/badge/Public%20Repos-XX-blue?style=for-the-badge&logo=github)
+
   </p>
 
 </div>

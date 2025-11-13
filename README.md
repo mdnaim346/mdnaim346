@@ -2,9 +2,7 @@
 
 <div align="center">
   
-  <!-- Banner -->
-  <img src="https://drive.google.com/file/d/1wOCeIU-A8LEZbIcL6ugrIQ-B6pHYvg3j/view?usp=sharing" alt="Banner" width="100%" style="border-radius: 10px;"/>
-  
+
   <!-- Profile Picture -->
   <img src="https://drive.google.com/file/d/1wOCeIU-A8LEZbIcL6ugrIQ-B6pHYvg3j/view?usp=sharing" alt="Naim Reza" width="200" height="200" style="border-radius: 50%; border: 5px solid #00ff9d;"/>
   
@@ -19,7 +17,8 @@
   
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/badge/MERN-Stack-00ff9d?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack" />
+    <img src="[https://img.shields.io/badge/MERN-Stack-00ff9d?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack](https://img.shields.io/badge/dynamic/xml
+)" />
     <img src="https://img.shields.io/badge/Full-Stack-764ba2?style=for-the-badge&logo=fullstack&logoColor=white" alt="Full Stack" />
     <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   </p>

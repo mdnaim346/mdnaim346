@@ -6,7 +6,7 @@
   <img src="https://drive.google.com/file/d/1wOCeIU-A8LEZbIcL6ugrIQ-B6pHYvg3j/view?usp=sharing" alt="Banner" width="100%" style="border-radius: 10px;"/>
   
   <!-- Profile Picture -->
-  <img src="https://avatars.githubusercontent.com/u/118394676?s=400&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4" alt="Naim Reza" width="200" height="200" style="border-radius: 50%; border: 5px solid #00ff9d;"/>
+  <img src="https://drive.google.com/file/d/1wOCeIU-A8LEZbIcL6ugrIQ-B6pHYvg3j/view?usp=sharing" alt="Naim Reza" width="200" height="200" style="border-radius: 50%; border: 5px solid #00ff9d;"/>
   
   <!-- Title -->
   <h1>Hi 👋, I'm Naim Reza</h1>

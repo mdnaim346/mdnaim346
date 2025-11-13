@@ -116,14 +116,17 @@
   
   <br/>
   <h3>🎯 Contribution Calendar</h3>
-  <div style="background-color: #20232a; padding: 15px; border-radius: 10px; border: 2px solid #00ff9d;">
-    <img src="https://ghchart.rshah.org/mdnaim346" alt="mdnaim346" />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnaim346&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="mdnaim346" height="150" />
+<div align="center" style="background-color: #20232a; padding: 15px; border-radius: 10px; border: 2px solid #00ff9d;">
+  
+  <!-- Dynamic Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnaim346&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="mdnaim346's Contribution Graph" width="100%" />
+  
+  <!-- Dynamic Contribution Stats -->
   <br/>
-  <em>🌟 Live Contributions in the Last Year (auto-updated)</em>
-</p>
-  </div>
+  <img src="https://github-contributions.vercel.app/api/v1/mdnaim346" alt="Live Contribution Count" />
+  
+  <p><em>📅 Auto-updated contributions and graph for @mdnaim346</em></p>
+</div>
 </div>
 
 ## 📈 GitHub Metrics

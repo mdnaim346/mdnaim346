@@ -118,7 +118,11 @@
   <h3>🎯 Contribution Calendar</h3>
   <div style="background-color: #20232a; padding: 15px; border-radius: 10px; border: 2px solid #00ff9d;">
     <img src="https://ghchart.rshah.org/mdnaim346" alt="mdnaim346" />
-    <p><em>596 contributions in the last year</em></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdnaim346&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="mdnaim346" height="150" />
+  <br/>
+  <em>🌟 Live Contributions in the Last Year (auto-updated)</em>
+</p>
   </div>
 </div>
 

@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Banner -->
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGQPbea4qmn5g/profile-displaybackgroundimage-shrink_350_1400/B56ZU2fvpvGoAY-/0/1740376047212?e=1747872000&v=beta&t=VnNEU41Y1V1NToRCi0bKNs8vbF75UWglVfeJIYoQ2ys" alt="Banner" width="100%" style="border-radius: 10px;"/>
+  <img src="https://drive.google.com/file/d/1wOCeIU-A8LEZbIcL6ugrIQ-B6pHYvg3j/view?usp=sharing" alt="Banner" width="100%" style="border-radius: 10px;"/>
   
   <!-- Profile Picture -->
   <img src="https://avatars.githubusercontent.com/u/118394676?s=400&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4" alt="Naim Reza" width="200" height="200" style="border-radius: 50%; border: 5px solid #00ff9d;"/>

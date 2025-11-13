@@ -3,9 +3,9 @@
 <div align="center">
   
 
-  <!-- Profile Picture -->![22cdccdd660a6d77](https://github.com/user-attachments/assets/6d66d3e0-c148-4b20-8d7b-ebe914b3fa52)
+  <!-- Profile Picture -->!
 
-  <img src="C:\Users\hp\OneDrive\Desktop\22cdccdd660a6d77.jpg" width="200" height="200" style="border-radius: 50%; border: 5px solid #00ff9d;"/>
+  <img src="(https://github.com/user-attachments/assets/6d66d3e0-c148-4b20-8d7b-ebe914b3fa52)" width="200" height="200" style="border-radius: 50%; border: 5px solid #00ff9d;"/>
   
   <!-- Title -->
   <h1>Hi 👋, I'm Naim Reza</h1>

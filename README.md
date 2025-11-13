@@ -216,7 +216,7 @@
 ---
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/118394676?s=100&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4" alt="Naim Reza" width="80" height="80" style="border-radius: 50%;"/>
+  <img src="[https://avatars.githubusercontent.com/u/118394676?s=100&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4](https://drive.google.com/file/d/1wOCeIU-A8LEZbIcL6ugrIQ-B6pHYvg3j/view?usp=sharing)" alt="Naim Reza" width="80" height="80" style="border-radius: 50%;"/>
   <h3>Thanks for visiting! 😊</h3>
   <p><em>Keep coding, keep learning! 🚀</em></p>
   <p>

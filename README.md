@@ -170,17 +170,17 @@
     <td style="padding: 20px; border: 2px solid #00ff9d; border-radius: 10px; background-color: #20232a; width: 33%; vertical-align: top;">
       <h3 style="color: #00ff9d; text-align: center;">🚀 Currently Working On:</h3>
       <ul style="text-align: left; color: white; list-style-type: none; padding: 0;">
-        <li>🔸 MERN Stack Applications</li>
+        <!-- <li>🔸 MERN Stack Applications</li>
         <li>🔸 React Projects</li>
-        <li>🔸 Node.js Backend APIs</li>
+        <li>🔸 Node.js Backend APIs</li> -->
       </ul>
     </td>
     <td style="padding: 20px; border: 2px solid #764ba2; border-radius: 10px; background-color: #20232a; width: 33%; vertical-align: top;">
       <h3 style="color: #764ba2; text-align: center;">📚 Learning:</h3>
       <ul style="text-align: left; color: white; list-style-type: none; padding: 0;">
-        <li>🔹 Advanced JavaScript</li>
+        <!-- <li>🔹 Advanced JavaScript</li>
         <li>🔹 System Design</li>
-        <li>🔹 Database Optimization</li>
+        <li>🔹 Database Optimization</li> -->
       </ul>
     </td>
     <td style="padding: 20px; border: 2px solid #ff6b6b; border-radius: 10px; background-color: #20232a; width: 33%; vertical-align: top;">
@@ -204,9 +204,7 @@
     <a href="https://www.linkedin.com/in/naim-reza66">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/fahmidurrshanto">
-      <img src="[https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://drive.google.com/file/d/1wOCeIU-A8LEZbIcL6ugrIQ-B6pHYvg3j/view?usp=sharing)" alt="Twitter"/>
-    </a>
+   
   </p>
 </div>
 

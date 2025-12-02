@@ -9,7 +9,7 @@
   
   <!-- Title -->
   <h1>Hi 👋, I'm Naim Reza</h1>
-  <h3>A passionate MERN Stack Developer from Bangladesh</h3>
+  <h3>A passionate ODOO Developer from Bangladesh</h3>
   
   <!-- Profile Views -->
   <p>
@@ -57,10 +57,10 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently working on **MERN Stack Projects**
-- 🌱 I'm currently learning **Advanced React & Node.js**
+- 🔭 I'm currently working on **ODOO base projects**
+- 🌱 I'm currently learning **Advanced OWL js, Qweb,advanced Bootstrap**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Express**
+- 💬 Ask me about **ODOO backend and frontend**
 - 📫 How to reach me: **naimreza3333@gmail.com**
 - ⚡ Fun fact: **There are two ways to write error-free programs; only the third one works**
 
@@ -75,7 +75,6 @@
 ### Backend
 ![REST API](https://img.shields.io/badge/-REST_API-007ACC?style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Odoo](https://img.shields.io/badge/-Odoo-714B67?logo=odoo&logoColor=white&style=for-the-badge)
 
@@ -175,7 +174,7 @@
       <ul style="text-align: left; color: white; list-style-type: none; padding: 0;">
         <li>⭐ Build 10+ Projects</li>
         <li>⭐ Contribute to Open Source</li>
-        <li>⭐ Master Full Stack Development</li>
+        <li>⭐ Full Stack Development</li>
       </ul>
     </td>
   </tr>

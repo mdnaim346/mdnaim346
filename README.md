@@ -56,14 +56,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=mdnaim346&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
     height="170"
   />
-  
+
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaim346&layout=compact&theme=radical" 
     height="170"
@@ -74,6 +74,14 @@
   <img 
     src="https://streak-stats.demolab.com?user=mdnaim346&theme=radical" 
   />
+</p>
+
+---
+
+## 🔢 Total Contributions  
+
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api/v1/mdnaim346" />
 </p>
 ---
 

@@ -1,5 +1,6 @@
-<div align="center"> <img src="22cdccdd660a6d77.jpg" width="200" height="200" style="border-radius: 50%;" alt="Naim Reza" />
 # 👋 Hi, I'm Naim Reza
+<div align="center"> <img src="22cdccdd660a6d77.jpg" width="200" height="200" style="border-radius: 50%;" alt="Naim Reza" />
+
 
 💼 **Odoo Developer | Full Stack Enthusiast**
 📍 Bangladesh

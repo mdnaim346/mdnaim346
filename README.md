@@ -59,14 +59,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnaim346&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaim346&layout=compact&theme=radical" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mdnaim346&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+    height="170"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaim346&layout=compact&theme=radical" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnaim346&theme=radical"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=mdnaim346&theme=radical" 
+  />
 </p>
-
 ---
 
 ## 🌐 Connect With Me

@@ -4,7 +4,7 @@
 
 💼 **Odoo Developer | Full Stack Enthusiast**
 📍 Bangladesh
-
+</div>
 ---
 
 ## 🚀 About Me

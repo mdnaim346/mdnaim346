@@ -57,6 +57,10 @@
 * Backend-focused architecture
 
 ---
+<!-- Activity Graph -->
+  <br/>
+  <h3>📈 Activity Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnaim346&theme=react-dark&bg_color=20232a&hide_border=true" alt="mdnaim346" />
 
 ## 📊 GitHub Stats  
 

@@ -9,11 +9,12 @@
 
 ## 🚀 About Me
 
-* 🔭 Working on **Odoo ERP customization & backend systems**
-* 🌱 Learning **Advanced OWL JS, QWeb & scalable backend design**
-* 💡 Interested in **ERP systems, automation & API integrations**
+* 🔭 Currently building **Copilot Agent (AI-powered business assistant)**
+* 💼 Working on **Odoo ERP customization & backend systems**
+* 🌱 Learning **Advanced OWL JS, FastAPI, AI Agents & scalable backend architecture**
+* 💡 Interested in **ERP systems, automation, AI agents & API integrations**
 * 👯 Open to **Open Source & freelance collaboration**
-* 🎯 Goal: Become a **Top-tier Full Stack Developer**
+* 🎯 Goal: Become a **Top-tier Full Stack & AI Engineer**
 
 ---
 
@@ -42,39 +43,53 @@
 
 ## 📌 Featured Projects
 
+### 🤖 Copilot Agent (Current Project)
+
+<img src="images/copilot-agent.png" alt="Copilot Agent" />
+
+* AI-powered business assistant with agent-based architecture
+* Intelligent workflow execution and task automation
+* Tool integration, API communication, and context-aware responses
+* Designed to improve productivity and automate business operations
+
+**Tech:** Python, FastAPI, PostgreSQL, REST APIs, AI/LLM Integration
+
+---
+
 ### 🎓 Online Training Academy
+
 <img src="images/training-academy.png" alt="Online Training Academy" />
 
-* ERP-based training management platform
-* Student, trainer, enrollment, attendance & certificate management
-* OWL analytics dashboard with KPI cards
-* REST API integrations
+* Developed a scalable ERP-based training management platform
+* Course, trainer, student, enrollment, attendance, payment, and certificate management
+* Approval workflows, activity reminders, and role-based access control
+* Interactive OWL analytics dashboard with KPI cards and business insights
 
-**Tech:** Odoo 17, Python ORM, OWL JS, QWeb, PostgreSQL
+**Tech:** Odoo 17, Python ORM, OWL JS, QWeb, PostgreSQL, REST API
 
 ---
 
 ### 📦 Smart Inventory Management System
+
 <img src="images/inventory-system.png" alt="Inventory Management System" />
 
-* Automated stock monitoring and replenishment
-* Predictive low-stock detection
-* Purchase generation workflows
-* Real-time analytics dashboard
+* Intelligent inventory management and stock automation
+* Automated stock monitoring, replenishment, and purchase generation
+* Predictive low-stock detection for inventory optimization
+* Real-time analytics dashboard for stock tracking and business insights
 
-**Tech:** Odoo 17, Python ORM, OWL JS, QWeb, PostgreSQL
-
----
+**Tech:** Odoo 17, Python ORM, OWL JS, QWeb, PostgreSQL, REST API
 
 ### 💬 Real-time Messaging System
+
 <img src="images/messenger.png" alt="ERP Messenger" />
 
-* Real-time messaging inside Odoo ERP
-* Live chat and message synchronization
-* OWL-based chat interface
-* Internal communication workflows
+* Real-time messaging system integrated into Odoo ERP
+* Live chat communication and backend synchronization
+* OWL-based chat interface with real-time message updates
+* Scalable internal communication workflows
 
-**Tech:** Odoo 17, Python ORM, OWL JS, QWeb, PostgreSQL
+**Tech:** Odoo 17, Python ORM, OWL JS, QWeb, PostgreSQL, REST API
 <!-- Activity Graph -->
   <br/>
   <h3>📈 Activity Graph</h3>

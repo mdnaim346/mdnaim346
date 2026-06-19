@@ -42,21 +42,39 @@
 
 ## 📌 Featured Projects
 
-### 🧾 Hospital Management System
+### 🎓 Online Training Academy
+<img src="images/training-academy.png" alt="Online Training Academy" />
 
-* Patient management, appointments, billing
-* Built with structured backend logic
+* ERP-based training management platform
+* Student, trainer, enrollment, attendance & certificate management
+* OWL analytics dashboard with KPI cards
+* REST API integrations
 
-### 🛒 Vegetable E-commerce System
-
-* Product management, cart system, order workflow
-
-### 💬 Mini Messenger
-
-* Real-time messaging concept
-* Backend-focused architecture
+**Tech:** Odoo 17, Python ORM, OWL JS, QWeb, PostgreSQL
 
 ---
+
+### 📦 Smart Inventory Management System
+<img src="images/inventory-system.png" alt="Inventory Management System" />
+
+* Automated stock monitoring and replenishment
+* Predictive low-stock detection
+* Purchase generation workflows
+* Real-time analytics dashboard
+
+**Tech:** Odoo 17, Python ORM, OWL JS, QWeb, PostgreSQL
+
+---
+
+### 💬 Real-time Messaging System
+<img src="images/messenger.png" alt="ERP Messenger" />
+
+* Real-time messaging inside Odoo ERP
+* Live chat and message synchronization
+* OWL-based chat interface
+* Internal communication workflows
+
+**Tech:** Odoo 17, Python ORM, OWL JS, QWeb, PostgreSQL
 <!-- Activity Graph -->
   <br/>
   <h3>📈 Activity Graph</h3>
